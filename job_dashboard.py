@@ -6,9 +6,6 @@ from datetime import datetime, timedelta
 import re
 from collections import Counter
 import numpy as np
-import schedule
-import threading
-
 
 # Page configuration
 st.set_page_config(
